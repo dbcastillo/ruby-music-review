@@ -48,4 +48,4 @@ Deliverables use the notation `#` for instance methods, and `.` for class method
   - returns the musician object for that Concert
   - once a Concert is made, should not be able to change the musician
 - `Concert.saturday`
-  - returns the reservations made on a Monday
+  - returns the concerts made on a Saturday
