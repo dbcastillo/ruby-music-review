@@ -29,7 +29,7 @@ Deliverables use the notation `#` for instance methods, and `.` for class method
 - `Musician#concerts`
   - returns an array of all concerts for that Musician
 - `Musician#add_concert(fan, day)`
-  - given a **vip object** and day (as a string), create a new concert and associate it with that Musician and vip
+  - given a **fan object** and day (as a string), create a new concert and associate it with that Musician and fan
 - `Musician.genre_musician(genre)`
   - takes an argument of a genre and returns the first musician in this genre
 
